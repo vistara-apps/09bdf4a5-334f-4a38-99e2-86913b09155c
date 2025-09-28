@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "ErrandMate",
+    "subtitle": "Built with Zara",
+    "description": "ErrandMate is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://09bdf4a5334f4a3899e286913b09155c-8mkz.vercel.app",
+    "splashImageUrl": "https://09bdf4a5334f4a3899e286913b09155c-8mkz.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://09bdf4a5334f4a3899e286913b09155c-8mkz.vercel.app/image.png",
+    "tagline": "ErrandMate",
+    "screenshotUrls": [
+      "https://09bdf4a5334f4a3899e286913b09155c-8mkz.vercel.app/screenshot.png",
+      "https://09bdf4a5334f4a3899e286913b09155c-8mkz.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://09bdf4a5334f4a3899e286913b09155c-8mkz.vercel.app/api/webhook"
+  }
+}
